@@ -20,4 +20,4 @@
 
 
 
-![Screenshot of an American Express credit card number being inputted and being validated.](https://imgur.com/a/pRv4Afy)
+![Screenshot of an American Express credit card number being inputted and being validated.](Amex succ.png)
