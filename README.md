@@ -19,5 +19,5 @@
 
 
 
-
-![Screenshot of an American Express credit card number being inputted and being validated.](https://github.com/spencerhite/CreditCardVerification/blob/main/Amex%20succ.png))
+*Example of an American Express credit card number being inputted and being validated*
+![Screenshot of an American Express credit card number being inputted and being validated.](https://github.com/spencerhite/CreditCardVerification/blob/main/Amex%20succ.png)
