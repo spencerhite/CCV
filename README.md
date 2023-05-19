@@ -20,4 +20,4 @@
 
 
 
-![Screenshot of an American Express credit card number being inputted and being validated.](Amex succ.png)
+![Screenshot of an American Express credit card number being inputted and being validated.]("Amex succ.png")
